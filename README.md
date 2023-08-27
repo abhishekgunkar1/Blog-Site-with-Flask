@@ -17,11 +17,7 @@ Welcome. This is a web application built using Python and Flask, designed for us
 Before you get started, make sure you have the following installed:
 
 #### - Python (3.6) 
-#### - Flask
-#### - Flask-WTF
-#### - Flask-Login
-#### - Flask-Bcrypt
-#### - SQLite 
+#### - PIP (9.0.1) 
 
 ## Installation
 
